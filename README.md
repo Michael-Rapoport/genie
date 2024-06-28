@@ -19,7 +19,7 @@ Visit http://localhost:5000 in your web browser to access the web crawler applic
 Final File Structure
 Your project directory should look like this:
 
-/my-web-crawler
+genie
 │
 ├── app.py
 ├── requirements.txt
